@@ -1,2 +1,2 @@
-# Data_Visualization_With_Tableau
+# Data_Visualizations_With_Tableau
 Creating Visualizations using Tableau
